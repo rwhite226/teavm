@@ -21,7 +21,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>teavm-idea-parent</artifactId>
-    <groupId>org.teavm</groupId>
+    <groupId>com.github.rwhite226.teavm</groupId>
     <version>0.7.0-SNAPSHOT</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
@@ -85,7 +85,7 @@
     </dependency>
 
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-jps-common</artifactId>
       <version>${project.version}</version>
     </dependency>

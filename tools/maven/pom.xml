@@ -18,7 +18,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.teavm</groupId>
+    <groupId>com.github.rwhite226.teavm</groupId>
     <artifactId>teavm</artifactId>
     <version>0.7.0-SNAPSHOT</version>
     <relativePath>../../pom.xml</relativePath>

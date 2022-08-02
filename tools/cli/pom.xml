@@ -18,7 +18,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
-    <groupId>org.teavm</groupId>
+    <groupId>com.github.rwhite226.teavm</groupId>
     <artifactId>teavm</artifactId>
     <version>0.7.0-SNAPSHOT</version>
     <relativePath>../../pom.xml</relativePath>
@@ -30,7 +30,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-tooling</artifactId>
       <version>${project.version}</version>
     </dependency>
@@ -39,35 +39,35 @@
       <artifactId>commons-cli</artifactId>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-classlib</artifactId>
       <version>${project.version}</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-metaprogramming-api</artifactId>
       <version>${project.version}</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-metaprogramming-impl</artifactId>
       <version>${project.version}</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-devserver</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-c-incremental</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>org.teavm</groupId>
+      <groupId>com.github.rwhite226.teavm</groupId>
       <artifactId>teavm-jso-impl</artifactId>
       <version>${project.version}</version>
       <scope>runtime</scope>
